@@ -1,2 +1,1 @@
 # Maas_Tahmin_Modeli_Olusturma
-# Maas_Tahmin_Modeli_Olusturma
